@@ -309,15 +309,18 @@ YOLOv8 real-time detection pipeline driving a fully **autonomous robotic arm** f
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jas0nt0dd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00fff5&icon_color=7928ca&text_color=ffffff&count_private=true&rank_icon=github&include_all_commits=true" width="48%" />
+<!-- Stats card: using anuraghazra with cache_seconds to reduce rate-limit errors -->
+<img src="https://github-readme-stats.vercel.app/api?username=jas0nt0dd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00fff5&icon_color=7928ca&text_color=ffffff&count_private=true&rank_icon=github&include_all_commits=true&cache_seconds=1800&hide=contribs" width="48%" />
 <img src="https://streak-stats.demolab.com?user=jas0nt0dd&theme=tokyonight&hide_border=true&background=0D0D0D&stroke=00fff5&ring=7928ca&fire=FF6B6B&currStreakLabel=00fff5&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jas0nt0dd&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00fff5&text_color=ffffff&langs_count=7" width="34%" />
+<!-- Language card: hide=lua to remove forked repo noise, exclude_repo for clean view -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jas0nt0dd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00fff5&text_color=ffffff&langs_count=8&hide=lua,xslt,powershell,c&exclude_repo=zkbot-autonomous-cup-washing-system-&cache_seconds=1800" width="60%" />
 
 <br/><br/>
 
+<!-- Neural activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jas0nt0dd&bg_color=0d0d0d&color=00fff5&line=7928ca&point=ffffff&area=true&area_color=7928ca30&hide_border=true&custom_title=⚡+Neural+Commit+Activity+Graph" width="96%" />
 
 </div>
