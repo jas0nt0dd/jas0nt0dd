@@ -1,9 +1,6 @@
 <div align="center">
 
-<!-- ██████████████████████████████████████████████████ -->
-<!--           VENOM-STYLE NEON HEADER                  -->
-<!-- ██████████████████████████████████████████████████ -->
-
+<!-- VENOM-STYLE NEON HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:0d0020,50:1a003a,80:00001a,100:000510&height=340&section=header&text=SELVARAGAVAN%20.%20M&fontSize=58&fontColor=00fff5&fontAlignY=42&desc=%E2%9A%A1%20AI%20Developer%20%7C%20ML%20Engineer%20%7C%20Robotic%20Engineer%20%7C%20Hackathon%20Winner%20%E2%9A%A1&descAlignY=62&descSize=14&descColor=bf5fff&animation=twinkling&stroke=00fff5&strokeWidth=2" width="100%"/>
 
 <!-- TYPING TERMINAL -->
@@ -28,51 +25,98 @@
 
 ---
 
+## ⚡ WHO AM I
+
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  >_ WHO AM I?                                                    ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║   NAME     ::  Selvaragavan M                                    ║
-║   ROLE     ::  AI Developer / ML Engineer / Robotic Engineer     ║
-║   LOCATION ::  Coimbatore, Tamil Nadu, India 🇮🇳                 ║
-║   STATUS   ::  🟢 ONLINE — Shipping AI that thinks & acts        ║
-║   STACK    ::  Python · PyTorch · LangGraph · YOLOv8 · AWS       ║
-║   MISSION  ::  Build systems that don't compute — they DECIDE    ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2500&pause=600&color=bf5fff&center=true&vCenter=true&width=800&lines=I+am+not+just+a+developer+%E2%80%94+I+am+a+SYSTEM+ARCHITECT;I+fine-tune+LLMs+at+3AM+and+ship+robots+by+noon;From+IIT+Kanpur+stages+to+Kaggle+leaderboards+%E2%80%94+I+compete;I+build+AI+that+doesn't+just+predict+%E2%80%94+it+ACTS" />
 
 </div>
 
----
+<br/>
 
-## ⚡ ABOUT ME
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd0bnl0eDFxMWd6eHFtMWR1M3ZubHcwdWE4bWo1aDM3ZGVqc3ZtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="310" />
+### `> identity.json`
 
-**Selvaragavan M** — Pre-final-year **B.Tech AI & Data Science** @ Kathir College of Engineering *(2023–2027, CGPA: 7.8)* and **Robotic Engineer** at Robential Kinetics Pvt. Ltd.
-
-I don't just build AI models — I build AI **agents** that plan, execute, and self-correct. From fine-tuning **Mistral 7B** with LoRA to driving **autonomous robotic arms** with YOLOv8, I operate at the raw intersection of deep-learning research and physical-world hardware.
-
-Bug bounty winner at **IIT BHU**. AWS Hackathon **Top 20** at IIT Kanpur. Finalist in national-level AI challenges. Every project I touch goes from idea → deployed production system.
-
-```python
-class Selvaragavan:
-    name       = "Selvaragavan M"
-    title      = ["AI Developer", "ML Engineer", "Robotic Engineer"]
-    location   = "Coimbatore, Tamil Nadu, India 🇮🇳"
-    current    = "Robotic Engineer @ Robential Kinetics Pvt. Ltd"
-    education  = "B.Tech AI & Data Science | Kathir College | 2023-2027"
-    focus      = ["Agentic AI", "LLM Fine-Tuning", "RAG", "CV", "MLOps", "Pentesting"]
-    weapons    = ["Python", "PyTorch", "Mistral 7B", "YOLOv8", "LangGraph", "AWS"]
-    status     = "🟢 ONLINE — Building The Future 24/7"
-    motto      = "The best model is the one that SHIPS."
+```json
+{
+  "name"     : "Selvaragavan M",
+  "alias"    : "jas0nt0dd",
+  "base"     : "Coimbatore, Tamil Nadu 🇮🇳",
+  "role"     : [
+                 "AI Developer",
+                 "ML Engineer",
+                 "Robotic Engineer"
+               ],
+  "current"  : "Robential Kinetics Pvt. Ltd",
+  "degree"   : "B.Tech AI & Data Science (2023–27)",
+  "cgpa"     : 7.8,
+  "weapons"  : ["Mistral 7B", "YOLOv8", "LangGraph",
+                "PyTorch", "FastAPI", "AWS"],
+  "trophies" : ["IIT BHU Bug Bounty #1",
+                "IIT Kanpur Top 20",
+                "AI Challenge 2.0 Finalist"],
+  "status"   : "🟢 ONLINE — Shipping 24/7",
+  "motto"    : "The best model is the one that SHIPS."
+}
 ```
 
-<br clear="right"/>
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd0bnl0eDFxMWd6eHFtMWR1M3ZubHcwdWE4bWo1aDM3ZGVqc3ZtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:12px"/>
+
+<br/>
+
+![AI Dev](https://img.shields.io/badge/AI-Developer-00fff5?style=flat-square&labelColor=0d0d0d)
+![ML Eng](https://img.shields.io/badge/ML-Engineer-7928ca?style=flat-square&labelColor=0d0d0d)
+![Robotic Eng](https://img.shields.io/badge/Robotic-Engineer-00FFAA?style=flat-square&labelColor=0d0d0d)
+![Hacker](https://img.shields.io/badge/Bug-Bounty%20Hunter-FF4B4B?style=flat-square&labelColor=0d0d0d)
+![Status](https://img.shields.io/badge/Status-ONLINE%20%F0%9F%9F%A2-00fff5?style=flat-square&labelColor=0d0d0d)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧬 ABOUT ME
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=3000&pause=800&color=888888&center=true&vCenter=true&width=750&lines=Pre-final+year+B.Tech+AI+%26+Data+Science+%40+Kathir+College+of+Engineering;CGPA%3A+7.8+%7C+Graduating+2027+%7C+Coimbatore%2C+Tamil+Nadu" />
+</div>
+
+<br/>
+
+<div align="center">
+
+| ⚡ | What I Do |
+|:---:|:---|
+| 🧠 | Engineer **agentic AI systems** — LLMs that plan, use tools, and self-correct without human intervention |
+| 🔬 | Fine-tune **Mistral 7B, BERT, DistilBERT** using LoRA on custom domain datasets for specialized tasks |
+| 🦾 | Drive **real robots** with YOLOv8 — integrated detection pipelines into physical robotic arms at Robential Kinetics |
+| 🔐 | Build **offensive AI security tools** — agentic pentesting CLI that autonomously executes recon & exploitation |
+| 🏆 | **Compete & win** — Bug Bounty #1 at IIT BHU, Top 20 at IIT Kanpur, Finalist at national AI challenge |
+| 🚀 | Ship **production-grade systems** — from Kaggle notebooks to FastAPI backends to Docker deployments |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Agentic AI](https://img.shields.io/badge/Agentic-AI-00fff5?style=for-the-badge&labelColor=0d0d0d)
+![LLM Fine-Tuning](https://img.shields.io/badge/LLM-Fine--Tuning-7928ca?style=for-the-badge&labelColor=0d0d0d)
+![Computer Vision](https://img.shields.io/badge/Computer-Vision-00FFAA?style=for-the-badge&labelColor=0d0d0d)
+![RAG Pipelines](https://img.shields.io/badge/RAG-Pipelines-bf5fff?style=for-the-badge&labelColor=0d0d0d)
+![MLOps](https://img.shields.io/badge/ML-Ops-FF9900?style=for-the-badge&labelColor=0d0d0d)
+![Pentesting](https://img.shields.io/badge/Penetration-Testing-FF4B4B?style=for-the-badge&labelColor=0d0d0d)
+![Robotics](https://img.shields.io/badge/Robotics-Hardware-FF6B6B?style=for-the-badge&labelColor=0d0d0d)
+
+</div>
 
 ---
 
@@ -274,7 +318,6 @@ YOLOv8 real-time detection pipeline driving a fully **autonomous robotic arm** f
 
 <br/><br/>
 
-<!-- NEURAL ACTIVITY GRAPH -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jas0nt0dd&bg_color=0d0d0d&color=00fff5&line=7928ca&point=ffffff&area=true&area_color=7928ca30&hide_border=true&custom_title=⚡+Neural+Commit+Activity+Graph" width="96%" />
 
 </div>
@@ -329,18 +372,10 @@ YOLOv8 real-time detection pipeline driving a fully **autonomous robotic arm** f
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  I'm open to:                                                    ║
-║  ◉ Full-time AI/ML Developer roles                               ║
-║  ◉ Research collaborations & open-source projects                ║
-║  ◉ Hackathon team-ups                                            ║
-║  ◉ Freelance AI integrations & LLM development                   ║
-║                                                                  ║
-║  > ping me at: selvaragavanart@gmail.com                         ║
-║  > or drop a star ⭐ on a repo you find interesting              ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+> *"I'm open to AI/ML roles, research collabs, hackathon team-ups & freelance LLM work."*
+> *→ ping me: **selvaragavanart@gmail.com** or drop a ⭐ on a repo you like.*
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-Visit_Now-00fff5?style=for-the-badge&labelColor=0a0a0a)](https://selvaragavan-dev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://www.linkedin.com/in/selva-ragavan-8997232a5/)
